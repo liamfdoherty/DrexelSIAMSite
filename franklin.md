@@ -164,13 +164,11 @@ Marine iguanas are **truly splendid** creatures. They're not found in equations 
 Here are a few empty pages connecting to the menu links to show where files can go and the resulting paths. (It's probably best if you look at the source folder for this).
 
 * [menu 1](/menu1/)
-* [menu 2](/menu2/)
 * [menu 3](/menu3/)
 
 ## References (not really)
 
 * \biblabel{noether15}{Noether (1915)} **Noether**,  Körper und Systeme rationaler Funktionen, 1915.
-* \biblabel{bezanson17}{Bezanson et al. (2017)} **Bezanson**, **Edelman**, **Karpinski** and **Shah**, [Julia: a fresh approach to numerical computing](https://julialang.org/research/julia-fresh-approach-BEKS.pdf), SIAM review 2017.
 
 ## Header and Footer
 
